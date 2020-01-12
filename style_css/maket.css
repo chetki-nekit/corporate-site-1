@@ -1,0 +1,185 @@
+body {
+	padding: 0;
+	margin: 0;
+	font-family: serif;
+	min-width: 130px;
+	line-height: 1.3;
+}
+.container {
+	max-width: 1170px;
+	padding: 0px 10px;
+	box-sizing: border-box;
+	margin: 0 auto;
+}
+.inline_block {
+	display: inline-block;
+	font-size: initial;
+}
+.block {
+	display: block;
+	font-size: 0;
+}
+.more_images {
+	width: 250px;
+}
+.orange_word {
+	color: #fa9179;
+}
+
+
+
+
+
+
+/*------------------------------- h e a d e r -----------------------------------*/
+
+
+
+
+
+
+
+.header {
+	padding-left: 150px;
+	padding-right: 150px;
+	padding-top: 84px;
+	padding-bottom: 84px;
+	background-color: #f5f5f5;
+
+}
+.logo_wrap {
+	width: 10%;
+}
+.logo {
+	display: inline-block;
+	text-align: left;
+	font-size: 16px;
+
+}
+p.logo:first-letter {
+	color: #fa9179;
+}
+.menu_wrap {
+	text-align: right;
+	width: 80%;
+}
+.menu {
+	text-align: right;
+	display: inline-block;
+	height: 20px;
+	width: 35px;
+
+}
+.topMenu_wrap {
+	display: inline-block;
+}
+.top_menu {
+	margin: 2px 0px;
+	display: block;
+	width: 35px;
+	height: 4px;
+	border-radius: 5px;
+	background-color: #706b73;
+}
+
+
+
+
+
+
+
+
+
+
+/*------------------------------------S E N D   A   M E S S E G E---------------------------------------*/
+
+
+
+
+
+
+
+
+.Send_message {
+	background-color: #f5f5f5;
+	padding-bottom: 110px;
+}
+.Phrase_wrap {
+	text-align: center;
+}
+.location_of_mainPhrase {
+	padding: 10px 0;
+	text-align: center;
+}
+.Headers_Phrase {
+	font-size: 25px;
+	color: #565656;
+}
+.Headers_main_word {
+	font-size: 25px;
+}
+
+.Headers_sec_sentence_location {
+	margin: 0 auto;
+	width: 705px;
+}
+.word_Headers_sec_sentence_location {
+	text-align: center;
+}
+
+
+.send_message_form_bg {
+	display: inline-block;
+	background-color: white;
+}
+.send_message_form_wrap {
+	padding: 40px;
+	padding-top: 25px;
+}
+.name_of_form {
+	padding: 10px 0;
+}
+.orange_send_wrap {
+	width: 40%;
+	text-align: right;
+}
+.send_phrase_wrap {
+	width: 57%;
+	text-align: left;
+}
+.SMs_input_wrap {
+	padding: 10px 0;
+}
+.SMs_input {
+	max-width: 293px;
+	min-width: 293px;
+	border: none;
+	border-bottom: 0.5px solid #c7c7c7;
+}
+.SMs_message {
+	min-height: 85px;
+	word-wrap: break-word;
+	resize: none;
+}
+.SMs_send {
+	font-size: 25px;
+}
+.send_phrase {
+	font-size: 25px;
+}
+.SMs_message_button_wrap_location_wrap {
+	width: 100%;
+}
+.SMs_message_button_wrap_location {
+	width: 238px;
+	margin: 0 auto;
+}
+.SMs_link {
+	text-decoration: none;
+}
+.SMs_message_button_wrap {
+	max-width: 238px;
+	min-width: 238px;
+	background-color: #ff5c36;
+	text-align: center;
+}
